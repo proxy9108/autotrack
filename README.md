@@ -27,6 +27,17 @@ self-host it behind Cloudflare.
   <img src="img/login.png" width="35%" alt="Sign-in page">
 </p>
 
+## Inside the app
+<sub>Shown with made-up demo data, not real user records.</sub>
+
+| Dashboard | Garage |
+|---|---|
+| ![Dashboard](img/app-dashboard.png) | ![Garage](img/app-vehicles.png) |
+| **Service log** | **Mileage & fuel** |
+| ![Service log](img/app-maintenance.png) | ![Mileage](img/app-mileage.png) |
+| **Shop visit sheet** | **Dates, papers and specs** |
+| ![Shop visit](img/app-shop-visit.png) | ![Details](img/app-details.png) |
+
 ## How it's built
 ```mermaid
 flowchart LR
